@@ -1,0 +1,2 @@
+# ShapeAI_Allen_George
+Basic Python and Deep Learning - 7 Days Hands on Bootcamp
